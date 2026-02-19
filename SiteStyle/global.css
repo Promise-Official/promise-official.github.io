@@ -9,7 +9,7 @@
 		color:#EEEEEE; 
 		font-family:"baskerville old face", georgia; 
 		line-height:1.7;
-		font-size:clamp(12px, 2vw, 29px);
+		font-size:clamp(15px, 2vw, 29px);
 	     }
 
 	p {
@@ -294,6 +294,14 @@
 			list-style-image:url(../images/custom_bullet.jpg);
 		   }
 
+		#margins {
+			margin:0px 15px 0px 15px;
+		}
+
+		#edges {
+			width:50%;
+		}
+
 		#myu_ether {
 			position:relative;
 			top:20px;
@@ -303,6 +311,7 @@
 			   }
 					  }
 		
+
 
 
 
